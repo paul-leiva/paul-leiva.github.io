@@ -18,7 +18,7 @@ body{
 }
 
 #top-header{
-	background-image: url(images/circuit.jpg);
+	background-image: url(/images/circuit.jpg);
 	background-size: cover;
 	line-height: 3.5em;
 	color: #fff;
