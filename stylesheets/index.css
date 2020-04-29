@@ -17,7 +17,7 @@ body{
 }
 
 #top-header{
-	background-image: url(../images/circuit.jpg);
+	background-image: url('/images/circuit.jpg');
 	background-size: cover;
 	line-height: 3.5em;
 	color: #fff;
@@ -43,7 +43,7 @@ body{
 }
 
 #other-headers{
-	background-image: url(/images/circuit.jpg);
+	background-image: url('/images/circuit.jpg');
 	text-align: center;
 	background-size: cover;
 	background-repeat: no-repeat;
