@@ -22,10 +22,10 @@ h2{
 #top-header{
 	background: rgb(0,185,255);
 	background: linear-gradient(0deg, rgba(0,185,255,1) 16%, rgba(0,182,116,1) 51%);
-	background-size: 100% 50%;
+	background-size: stretch;
 	color: #fff;
 }
 
 #other-headers{
-	background-image: url('../image/teal_amb.jpg');
+	background-image: url('../images/teal_amb.jpg');
 }
