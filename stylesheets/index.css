@@ -20,7 +20,8 @@ h2{
 }
 
 #top-header{
-	background-color: coral;
+	background: rgb(0,185,255);
+	background: linear-gradient(0deg, rgba(0,185,255,1) 0%, rgba(0,182,116,1) 23%); 
 	color: #fff;
 }
 
