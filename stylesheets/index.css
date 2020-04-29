@@ -23,5 +23,5 @@ body{
 #other-headers{
 	background-image: url('/images/teal_amb.jpg');
 	text-align: center;
-	background-size: stretch;
+	background-size: cover;
 }
