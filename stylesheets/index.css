@@ -21,7 +21,8 @@ h2{
 
 #top-header{
 	background: rgb(0,185,255);
-	background: linear-gradient(0deg, rgba(0,185,255,1) 0%, rgba(0,182,116,1) 23%); 
+	background: linear-gradient(0deg, rgba(0,185,255,1) 16%, rgba(0,182,116,1) 51%);
+	background-size: 100% 50%;
 	color: #fff;
 }
 
