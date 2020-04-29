@@ -24,4 +24,5 @@ body{
 	background-image: url('/images/teal_amb.jpg');
 	text-align: center;
 	background-size: cover;
+	background-repeat: no-repeat;
 }
